@@ -42,8 +42,9 @@ plt.show()
 ```
 ## Output
 
-![Alt text](image.png)
-</br>
+![image](https://github.com/23008344/Univariate-Linear-Regression/assets/145742655/a7cef83d-8afd-4230-8bfc-0f2a95ed5ceb)
+
+
 
 
 ## Result
